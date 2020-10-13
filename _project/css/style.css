@@ -19,12 +19,12 @@ body{
     z-index: 50; 
 }
 .header-logo img{
-    width: 30%;
+    width: 40%;
 }
 .navbar-toggler{
     border: 2px solid rgb(117, 117, 117) !important;
     border-radius: 8px !important;
-    font-size: 30px !important;
+    font-size: 22px !important;
 }
 .navbar-toggler:focus{
     outline: none;
@@ -666,7 +666,7 @@ body{
     animation-delay: 1.9s;
 }
 .ani-delay-5{
-    animation-delay: 2s;
+    animation-delay: 0.4s;
 }
 
 
